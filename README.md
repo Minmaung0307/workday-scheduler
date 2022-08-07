@@ -17,3 +17,7 @@
 - though refresh the page, the saved events still persist
 
 # Workday-scheduler URL
+
+https://minmaung0307.github.io/workday-scheduler/
+
+git@github.com:Minmaung0307/workday-scheduler.git
